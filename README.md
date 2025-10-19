@@ -9,13 +9,16 @@
 ## About Me
 Hi, I'm Ray!
 <details open>
-<summary> My Top Languages </summary>
+<summary> My Languages </summary>
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| English   |
-|     2| Chinese   |
+|     1| Python    |
+|     2| Java      |
 |     3| JavaScript|
+|     4| C         |
+|     5| HTML5     |
+|     6| CSS3      |
 
 </details>
 
